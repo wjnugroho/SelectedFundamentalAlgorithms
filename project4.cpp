@@ -1,8 +1,6 @@
 /* compiles with command line  g++ project4.cpp -lX11 -lm -L/usr/X11R6/lib 
-   Course 	= CscI0600
-   Homework	= Project4
-   Name		= Wahyu Jati Nugroho
-
+   Implementation of randomized server algorithm.
+   
    my strategy   = a randomized server selection based on the probability of inverse distance (1)
    compared with = a work-balance (select the server which did travel least)                  (2)
 */
