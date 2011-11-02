@@ -1,3 +1,5 @@
+/* Library of Simple Simplex Implementation */
+
 #include <iostream> //provide cout
 #include <cstdlib>  //provide EXIT_SUCCESS
 #include <cassert>  //provide assert function
