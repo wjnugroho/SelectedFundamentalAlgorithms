@@ -1,3 +1,4 @@
+/* Finding a smallest circle */
 #include <cmath>
 #include <float.h>
 #include <cstdlib>
