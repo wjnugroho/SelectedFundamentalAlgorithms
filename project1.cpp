@@ -1,6 +1,4 @@
 /* compiles with command line  g++ project1.cpp -lX11 -lm -L/usr/X11R6/lib 
-   Course 	= CscI0600
-   Homework	= Project1
    Name		= Wahyu Jati Nugroho
 */
 #include <X11/Xlib.h>
