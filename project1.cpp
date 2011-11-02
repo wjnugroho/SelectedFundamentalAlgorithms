@@ -1,5 +1,5 @@
 /* compiles with command line  g++ project1.cpp -lX11 -lm -L/usr/X11R6/lib 
-   Name		= Wahyu Jati Nugroho
+   Find the shortest path between two input points with multiple line obstacles
 */
 #include <X11/Xlib.h>
 #include <X11/Xutil.h>
